@@ -5,9 +5,9 @@
 
 [High-Bandwidth Proxies](https://oxylabs.io/products/high-bandwidth-proxies) are optimized servers built for scraping **video and audio data at scale**. They provide the speed and stability needed to download multimedia content from popular platforms without interruptions,  timeouts, or slow speeds. Ideal for AI training data collection, media archiving, content analysis, or other large-scale data projects.
 
-## Key features and benefits
+## 💡 Key features and benefits
 
-### Features
+### ⚡ Features
 
 - **High Performance:** 200+ Gbps bandwidth with traffic load balancing across multiple servers
 - **Diverse IP Network:** Millions of IPs from various subnets with rotation and cooldown mechanisms
@@ -15,26 +15,27 @@
 - **Easy Integration:** Works with `yt-dlp` and other popular open-source libraries
 
 
-### Benefits
+### ✅ Benefits
 
 - **High success rates at scale:** Distribute requests accross multiple proxies to overcome anti-bot systems
 - **Stable connections:** Avoid blocks, timeouts, and failed downloads during long sessions
 - **Handle millions of requests:** Process massive video datasets efficiently without bottlenecks
-- **Competitive pricing:** Cost-effective for high-volume and fast operations
+- **Competitive pricing:** Cost-effective for high-volume operations
 
 
-## Integration examples
+## 🚀 Integration examples
 
 After acquiring High-Bandwidth Proxies, you'll get the following proxy configuration details:
 - A dedicated **proxy endpoint**
 - Proxy **username** and **password**
 - Proxy **port number** (default is `60000`)
 
-### Testing your connection
+### 🧪 Testing your connection
 ---
 You can test your proxy connection by appending `-test` to your username.
 
 ```python
+# pip install requests
 import random
 import requests
 
@@ -58,7 +59,7 @@ response = requests.get(
 print(response.json())
 ```
 
-### Integrating with yt_dlp
+### 🎬 Integrating with yt_dlp
 ---
 Make sure to **generate a unique session ID** for each request to get the best performance, as shown below. This configuration ensures that each download request is made with a new IP address.
 
@@ -66,6 +67,7 @@ Make sure to **generate a unique session ID** for each request to get the best p
 > Find more code samples in our [documentation](https://developers.oxylabs.io/video-data/high-bandwidth-proxies).
 
 ```python
+# pip install yt-dlp
 import random
 import yt_dlp
 
@@ -104,9 +106,9 @@ if __name__ == '__main__':
     main()
 ```
 
-## Contacts
+## ☎️ Contacts
 
 Have questions or need assistance? Don't hesitate to get in touch with us:
 
-- Email: hello@oxylabs.io
-- [Live chat support](https://oxylabs.drift.click/oxybot)
+- 📩 Email: hello@oxylabs.io
+- 💬 [Live chat support](https://oxylabs.drift.click/oxybot)
