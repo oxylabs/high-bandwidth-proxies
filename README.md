@@ -1,5 +1,5 @@
 # High Bandwidth Proxies for Video Download
-[![Oxylabs promo code](/assets/High-Bandwidth-Proxies-V1.png)](https://oxylabs.io/products/high-bandwidth-proxies)
+[![Oxylabs promo code](/assets/High-Bandwidth-Proxies-V2.png)](https://oxylabs.io/products/high-bandwidth-proxies)
 
 [![](https://dcbadge.vercel.app/api/server/eWsVUJrnG5)](https://discord.gg/GbxmdGhZjq)
 
