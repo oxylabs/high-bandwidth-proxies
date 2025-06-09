@@ -3,7 +3,7 @@
 
 [![](https://dcbadge.vercel.app/api/server/eWsVUJrnG5)](https://discord.gg/GbxmdGhZjq)
 
-[High-Bandwidth Proxies](https://oxylabs.io/products/high-bandwidth-proxies) are optimized servers built for scraping **video and audio data at scale**. They provide the speed and stability needed to download multimedia content from popular platforms without interruptions,  timeouts, or slow speeds. Ideal for AI training data collection, media archiving, content analysis, or other large-scale data projects.
+[High-Bandwidth Proxies](https://oxylabs.io/products/high-bandwidth-proxies) are optimized servers designed for scraping **video and audio data at scale**. They provide the speed and stability needed to download multimedia content from popular platforms without interruptions,  timeouts, or slow speeds. Ideal for AI training data collection, media archiving, content analysis, or other large-scale data projects.
 
 ## 💡 Key features and benefits
 
