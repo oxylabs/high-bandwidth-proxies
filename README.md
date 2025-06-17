@@ -9,10 +9,10 @@
 
 ### ⚡ Features
 
-- **High Performance:** 200+ Gbps bandwidth with traffic load balancing across multiple servers
-- **Diverse IP Network:** Millions of IPs from various subnets with rotation and cooldown mechanisms
+- **High performance:** 200+ Gbps bandwidth with traffic load balancing across multiple servers
+- **Diverse IP network:** Millions of IPs from various subnets with rotation and cooldown mechanisms
 - **High throughput and success:** Optimized IP pool management with automatic error detection
-- **Easy Integration:** Works with `yt-dlp` and other popular open-source libraries
+- **Easy integration:** Works with `yt-dlp` and other popular open-source libraries
 
 
 ### ✅ Benefits
