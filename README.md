@@ -1,7 +1,7 @@
 # High-Bandwidth Proxies for Video Download
 [![Oxylabs promo code](/assets/High-Bandwidth-Proxies-V2.png)](https://oxylabs.io/products/high-bandwidth-proxies?utm_source=877&utm_medium=affiliate&groupid=877&utm_content=high-bandwidth-proxies-github&transaction_id=102c8d36f7f0d0e5797b8f26152160)
 
-[![](https://dcbadge.vercel.app/api/server/eWsVUJrnG5)](https://discord.gg/GbxmdGhZjq)
+[![](https://dcbadge.limes.pink/api/server/Pds3gBmKMH?style=for-the-badge&theme=discord)](https://discord.gg/Pds3gBmKMH) [![YouTube](https://img.shields.io/badge/YouTube-Oxylabs-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@oxylabs)
 
 [High-Bandwidth Proxies](https://oxylabs.io/products/high-bandwidth-proxies) are optimized servers designed for scraping **video and audio data at scale**. They provide the speed and stability needed to download multimedia content from popular platforms without interruptions,  timeouts, or slow speeds. Ideal for AI training data collection, media archiving, content analysis, or other large-scale data projects.
 
